@@ -3,7 +3,7 @@
     "name": "native-shop",
     "slug": "native-shop",
     "version": "1.0.0",
-    "orientation": "portrait",
+    "orientation": "default",
     "icon": "./assets/icon.png",
     "splash": {
       "image": "./assets/splash.png",
@@ -27,6 +27,7 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "description": "Native-Shop : A market place where you can sell anything that you no longer want."
   }
 }
